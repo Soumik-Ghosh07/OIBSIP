@@ -1,1 +1,58 @@
-
+.{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    max-width: 80vw;
+}
+.navbar{
+    display: flex;
+    height: 30px;
+}
+.navbar li{
+    list-style: none;
+    margin: 0 12px;
+}
+.topleft{
+    width: 50%;
+    
+}
+.topright{
+    width: 50%;
+    
+}
+.section1{
+    max-height: 100vh;
+}
+.section2{
+    padding-left: 70px;
+    padding-right: 70px;
+}
+.section3{
+    padding-left: 70px;
+    padding-right: 70px;
+}
+.my-1{
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
+.px-2{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.logo{
+    font-size: 1.3rem;
+}
+.section1 h1{
+    font-size: 2.1rem;
+}
+.section2 h1{
+    font-size: 1.7rem;
+}
+.box{
+    margin: 5px 5px;
+}
+.mx-mar{
+    margin-left: 20px;
+    margin-right: 20px;
+}
