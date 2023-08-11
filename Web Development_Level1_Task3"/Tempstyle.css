@@ -1,0 +1,15 @@
+
+  body {
+    text-align:justify center;
+  }
+  .container {
+    margin-top: 190px;
+  }
+.colour{
+    background: #d7c7cf;
+    border-radius: 60px;
+    padding: 7px 12px;
+    border: 2px rgb(24, 24, 22);
+    border-radius: 20px;
+    color: rgb(19, 18, 16);
+}
