@@ -1,0 +1,41 @@
+.min-h-screen{
+    min-height: 100vh;
+}
+.bg-red{
+    background-color:aqua;
+}
+.text-blue{
+color: rgb(175, 5, 104);
+}
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+.flex{
+    display: flex;
+}
+.items-center{
+    align-items: center;
+}
+.justify-between{
+    justify-content: space-between;
+}
+.justify-center{
+    justify-content:center;
+}
+.font-bold{
+    font-weight: 900;
+}
+.flex-col{
+    flex-direction: column;
+}
+.btn{
+    padding: 7px 12px;
+    border: 2px rgb(161, 161, 24);
+    border-radius: 20px;
+    color: rgb(19, 18, 16);
+    background-color: aquamarine;
+}
+.text-center{
+    text-align: center;
+}
